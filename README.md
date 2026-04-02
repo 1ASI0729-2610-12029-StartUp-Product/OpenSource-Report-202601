@@ -174,6 +174,10 @@ Student Outcome ABET: **ABET – EAC - Student Outcome 3** <br> Criterio: _Capac
 
 ## 1.2 Solution Profile
 
+<p>El proyecto <strong>Sistema Inteligente de Registro y Alerta Neonatal (SIRAN)</strong> nace a partir de un problema muy real en el cuidado de recién nacidos: muchas veces las señales de alerta temprana pasan desapercibidas. Esto no ocurre por falta de interés, sino por situaciones comunes como el cansancio de los padres, la falta de experiencia, el desconocimiento de ciertos síntomas o simplemente no llevar un registro ordenado de lo que ocurre día a día. Todos estos factores hacen que sea difícil detectar a tiempo cambios importantes en la salud del bebé, como infecciones o deshidratación, lo que puede retrasar la atención médica en momentos clave. Por eso, el objetivo del proyecto es ayudar a identificar estos riesgos lo antes posible mediante una herramienta que permita registrar y analizar información importante en tiempo real. Como parte del alcance, también se considera que el sistema debe ser fácil de usar, proteger la información personal y adaptarse a estándares médicos.
+
+Como solución, se propone desarrollar una plataforma digital con una base de datos centralizada donde se puedan registrar datos importantes del recién nacido, como su temperatura, peso, alimentación, coloración, entre otros. La idea es que funcione como un tablero de salud inteligente que no solo guarde la información, sino que también la analice automáticamente y avise cuando algo no esté dentro de lo normal. Además, el sistema podrá generar reportes gráficos que faciliten la revisión por parte de médicos. Está pensado tanto para clínicas y pediatras como para padres primerizos, buscando mejorar la toma de decisiones, reaccionar más rápido ante cualquier problema y crear un puente más claro de información entre el hogar y el centro de salud.</p>
+
 ### 1.2.1 Antecedentes y problemática
 
 ### 1.2.2 Lean UX Process
