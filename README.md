@@ -20,7 +20,8 @@
 
 **Integrantes**:
 
-Retuerto Rodríguez, Jorge Manuel - u202318612  
+Retuerto Rodríguez, Jorge Manuel - u202318612 <br>
+Said Conde, Yazid -u202312348 
 
 
 **Marzo, 2026**
@@ -157,10 +158,14 @@ Student Outcome ABET: **ABET – EAC - Student Outcome 3** <br> Criterio: _Capac
 <th colspan="10">Conclusiones</th>
 <tr>
 
-<td colspan="3">Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
-<td colspan="3">TB1: Retuerto Rodríguez, Jorge Manuel</td>
-<td colspan="10">Tremendo</td>
+<td colspan="3" align="justify">Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
+<td colspan="3" align="justify">TB1: Retuerto Rodríguez, Jorge Manuel <br><br><br>
+<strong>TB1: Said Conde, Yazid</strong>
+Colaboró con el informe del documento, participó identificando problemas y soluciones durante el proceso del informe. Asimismo ayudo en el desarrollo del landing page.</td>
+<td colspan="10" align = "justify"><strong>TB1: </strong><br>
+El equipo alcanzó sus metas gracias a su excelente desempeño en entornos digitales. La combinación de una organización sólida, una participación activa y una resolución eficiente de conflictos permitió un desarrollo ordenado del trabajo. El alto nivel de compromiso y la fluidez en la comunicación fueron los pilares que aseguraron el éxito de esta etapa.s</td>
 </tr>
+<td></td>
 
 </table>
 
@@ -169,28 +174,149 @@ Student Outcome ABET: **ABET – EAC - Student Outcome 3** <br> Criterio: _Capac
 ## 1.1. Startup Profile
 
 ### 1.1.1 Descripción de la Startup
+<p align ="justify">Somos un equipo recientemente formado enfocado en desarrollar una solución tecnológica que responda a una necesidad real: mejorar el cuidado y la seguridad de los recién nacidos, ayudando a detectar a tiempo posibles señales de alerta que muchas veces pasan desapercibidas.</p>
 
 ### 1.1.2 Perfiles de integrantes del equipo
-
+| Foto | Descripción del Perfil |
+| :---: | :--- |
+| <img src="assets\chapter1\Foto Yazid.jpeg" width="150" alt=" Foto de Said Conde, Yazid"> | Said Conde, Yazid  <br><br> <p align="justify">Me considero una persona responsable al momento de trabajar en equipo, siempre proactivo y dispuesto a tomar las riendas en situaciones criticas. Me encanta programar y todo el area de desarrollo de software, desarrollo de videojuegos y ciberseguridad en el area de Red Team. Tengo conocimientos en Python, SQL, C++, desarrollo web. Mis conocimientos seran de gran ayuda en el desarrollo del proyecto. </p>|
+| <img src="URL_DE_TU_IMAGEN_2" width="150" alt="Nombre 2"> | **Nombre de la Persona 2** <br><br> Breve descripción sobre la experiencia de esta persona, sus habilidades principales y su contribución al proyecto. |
+| <img src="URL_DE_TU_IMAGEN_3" width="150" alt="Nombre 3"> | **Nombre de la Persona 3** <br><br> Breve descripción sobre la experiencia de esta persona, sus habilidades principales y su contribución al proyecto. |
 ## 1.2 Solution Profile
 
-<p>El proyecto <strong>Sistema Inteligente de Registro y Alerta Neonatal (SIRAN)</strong> nace a partir de un problema muy real en el cuidado de recién nacidos: muchas veces las señales de alerta temprana pasan desapercibidas. Esto no ocurre por falta de interés, sino por situaciones comunes como el cansancio de los padres, la falta de experiencia, el desconocimiento de ciertos síntomas o simplemente no llevar un registro ordenado de lo que ocurre día a día. Todos estos factores hacen que sea difícil detectar a tiempo cambios importantes en la salud del bebé, como infecciones o deshidratación, lo que puede retrasar la atención médica en momentos clave. Por eso, el objetivo del proyecto es ayudar a identificar estos riesgos lo antes posible mediante una herramienta que permita registrar y analizar información importante en tiempo real. Como parte del alcance, también se considera que el sistema debe ser fácil de usar, proteger la información personal y adaptarse a estándares médicos.
+<p align="justify">El proyecto <strong>Sistema Inteligente de Registro y Alerta Neonatal (SIRAN)</strong> nace a partir de un problema muy real en el cuidado de recién nacidos: muchas veces las señales de alerta temprana pasan desapercibidas. Esto no ocurre por falta de interés, sino por situaciones comunes como el cansancio de los padres, la falta de experiencia, el desconocimiento de ciertos síntomas o simplemente no llevar un registro ordenado de lo que ocurre día a día. Todos estos factores hacen que sea difícil detectar a tiempo cambios importantes en la salud del bebé, como infecciones o deshidratación, lo que puede retrasar la atención médica en momentos clave. Por eso, el objetivo del proyecto es ayudar a identificar estos riesgos lo antes posible mediante una herramienta que permita registrar y analizar información importante en tiempo real. Como parte del alcance, también se considera que el sistema debe ser fácil de usar, proteger la información personal y adaptarse a estándares médicos.</p>
 
-Como solución, se propone desarrollar una plataforma digital con una base de datos centralizada donde se puedan registrar datos importantes del recién nacido, como su temperatura, peso, alimentación, coloración, entre otros. La idea es que funcione como un tablero de salud inteligente que no solo guarde la información, sino que también la analice automáticamente y avise cuando algo no esté dentro de lo normal. Además, el sistema podrá generar reportes gráficos que faciliten la revisión por parte de médicos. Está pensado tanto para clínicas y pediatras como para padres primerizos, buscando mejorar la toma de decisiones, reaccionar más rápido ante cualquier problema y crear un puente más claro de información entre el hogar y el centro de salud.</p>
+<p align="justify">Como solución, se propone desarrollar una plataforma digital con una base de datos centralizada donde se puedan registrar datos importantes del recién nacido, como su temperatura, peso, alimentación, coloración, entre otros. La idea es que funcione como un tablero de salud inteligente que no solo guarde la información, sino que también la analice automáticamente y avise cuando algo no esté dentro de lo normal. Además, el sistema podrá generar reportes gráficos que faciliten la revisión por parte de médicos. Está pensado tanto para clínicas y pediatras como para padres primerizos, buscando mejorar la toma de decisiones, reaccionar más rápido ante cualquier problema y crear un puente más claro de información entre el hogar y el centro de salud.</p>
 
 ### 1.2.1 Antecedentes y problemática
+<p align="jusitfy">Desarrollo de la preguntas clave usando el modelo 5Ws y 2Hs, importante para la identificar los Antecedentes y problematica.</p>
+
+| Pregunta | Pregunta formulada al problema | Respuesta a la pregunta |
+| :--- | :--- | :--- |
+| **Who?** | ¿Quiénes son afectados? | <p align ="justify"> Recién nacidos, padres (quienes enfrentan ansiedad y fatiga en el entorno hospitalario), enfermeras y pediatras en unidades neonatales. </p> |
+| **What?** | ¿Cuál es el problema? |  <p align ="justify">La pérdida de información crítica entre turnos médicos y el estrés de los padres que, por falta de herramientas técnicas, no pueden comunicar con precisión lo que observan.</p> |
+| **When?** | ¿Cuándo se presenta? |<p align ="justify"> Durante la estancia en la clínica, especialmente en las horas de descanso del personal o cuando los padres se quedan a cargo del monitoreo visual en la habitación.</p> |
+| **Where?** | ¿Dónde ocurre? | <p align ="justify">En clínicas, hospitales y centros de maternidad, como paso previo y fundamental antes de que el bebé sea dado de alta para ir a casa.</p> |
+| **Why?** | ¿Por qué ocurre? | <p align ="justify">Por la alta carga asistencial del personal clínico y el estado emocional de los padres, lo que facilita que síntomas sutiles pasen desapercibidos en los registros manuales.</p> |
+| **How?** | ¿Cómo se va a solucionar? | Con una plataforma digital que permite a padres y personal registrar parámetros en tiempo real, validándolos con algoritmos médicos para generar alertas y reportes objetivos. |
+| **How much?** | ¿Cuánto impacto tiene? | <p align ="justify">Aumenta la seguridad del paciente, reduce el error humano por agotamiento y brinda tranquilidad a los padres al participar activamente en un cuidado basado en datos. </p>|
 
 ### 1.2.2 Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
+<p align="justify">El estado actual del monitoreo neonatal es deficiente debido a que el seguimiento de signos vitales depende de la observación subjetiva y la memoria de padres agotados, lo que genera una brecha de información crítica entre el hogar y la clínica.
+Este problema causa que señales de alerta temprana (como infecciones o deshidratación) sean invisibles o se detecten demasiado tarde, impidiendo que el personal médico cuente con datos reales para actuar en los "minutos de oro" de supervivencia.
+Nuestra solución es el desarrollo de una plataforma digital centralizada que transforme el registro manual en un Tablero de Salud Inteligente con alertas automáticas.
+</p>
 
 #### 1.2.2.2. Lean UX Assumptions
+### **Business Assumptions (Negocio)**
+
+<p align="justify">
+Creemos que existe una necesidad real en el mercado por soluciones que ayuden al cuidado neonatal en el hogar.  
+Creemos que los padres estarían dispuestos a usar una app que les brinde seguridad y acompañamiento en el cuidado de su bebé.  
+Creemos que el valor principal del producto está en la prevención y detección temprana de problemas de salud.  
+Creemos que el modelo de negocio podría sostenerse mediante suscripciones, servicios premium o alianzas con clínicas y profesionales de salud.  
+Creemos que instituciones de salud podrían estar interesadas en utilizar o recomendar la app como apoyo para sus pacientes.  
+Creemos que la confianza y la precisión de la información serán claves para la adopción del producto.
+</p>
+
+---
+
+### **Customer Assumptions (Clientes)**
+
+<p align="justify">
+Creemos que nuestros principales clientes son padres primerizos o cuidadores jóvenes (18–30 años).  
+Creemos que estos usuarios valoran soluciones digitales simples, rápidas y accesibles desde el celular.  
+Creemos que los padres sienten miedo o inseguridad al no saber si lo que le ocurre a su bebé es normal o no.  
+Creemos que prefieren herramientas que les den respuestas claras sin necesidad de conocimientos médicos avanzados.  
+Creemos que están dispuestos a registrar información del bebé si el proceso es rápido y fácil.  
+Creemos que confiarán más en la app si esta les brinda recomendaciones claras y alertas oportunas.  
+Creemos que abandonarán la app si sienten que es complicada, confusa o no les aporta valor inmediato.
+</p>
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
+### **Hipótesis 1 – Registro de datos**
+
+<p align="justify">
+Creemos que si los padres pueden registrar fácilmente información diaria del bebé (alimentación, sueño, temperatura, etc.),  
+entonces podrán identificar mejor cambios o comportamientos inusuales,  
+sabremos que esto es cierto cuando al menos el 70% de los usuarios registre datos de forma constante durante la primera semana.
+</p>
+
+---
+
+### **Hipótesis 2 – Alertas tempranas**
+
+<p align="justify">
+Creemos que si el sistema genera alertas automáticas ante posibles señales de riesgo,  
+entonces los padres reaccionarán más rápido ante situaciones importantes,  
+sabremos que esto es cierto cuando los usuarios respondan o revisen las alertas en menos de 5 minutos en la mayoría de los casos.
+</p>
+
+---
+
+### **Hipótesis 3 – Reducción de ansiedad**
+
+<p align="justify">
+Creemos que si los padres reciben orientación clara y acompañamiento mediante la app,  
+entonces se sentirán más seguros y menos ansiosos en el cuidado del recién nacido,  
+sabremos que esto es cierto cuando al menos el 60% de los usuarios reporten una mejora en su tranquilidad o confianza.
+</p>
+
+---
+
+### **Hipótesis 4 – Facilidad de uso**
+
+<p align="justify">
+Creemos que si la aplicación tiene una interfaz simple e intuitiva,  
+entonces los usuarios la utilizarán de forma continua,  
+sabremos que esto es cierto cuando más del 75% de los usuarios activos regresen a usar la app diariamente.
+</p>
+
+---
+
+### **Hipótesis 5 – Valor para profesionales de salud**
+
+<p align="justify">
+Creemos que si los datos registrados pueden compartirse con profesionales de salud,  
+entonces estos podrán tomar decisiones más informadas,  
+sabremos que esto es cierto cuando profesionales indiquen que la información les resulta útil en al menos el 50% de los casos.
+</p>
+
+---
+
+### **Hipótesis 6 – Modelo de negocio**
+
+<p align="justify">
+Creemos que si ofrecemos funciones avanzadas (como análisis inteligente o seguimiento detallado),  
+entonces algunos usuarios estarán dispuestos a pagar por estas características,  
+sabremos que esto es cierto cuando al menos el 20% de los usuarios activos considere o adquiera una versión premium.
+</p>
 
 #### 1.2.2.4. Lean UX Canvas
 
 ## 1.3. Segmentos objetivo
+
+### **Pediatras y Especialistas Neonatales**
+
+<p align="justify">
+Este segmento está compuesto por profesionales de la salud que realizan el seguimiento ambulatorio o de control del recién nacido. Son un objetivo clave porque el SIRAN resuelve su mayor punto de dolor: la toma de decisiones basadas en relatos subjetivos, incompletos o sesgados por la ansiedad de los padres.  
+
+El proyecto se dirige a ellos porque necesitan optimizar el tiempo de consulta y contar con evidencia paramétrica (gráficos y tendencias) para diagnosticar con precisión infecciones, deshidratación o problemas de crecimiento, transformando la consulta de una charla anecdótica a un análisis técnico de datos reales.
+</p>
+
+---
+
+### **Clínicas y Centros de Salud Neonatal**
+
+<p align="justify">
+Este segmento representa el nivel institucional del proyecto. Las clínicas buscan mejorar sus indicadores de calidad, reducir las readmisiones hospitalarias por complicaciones no detectadas a tiempo y ofrecer un valor agregado en sus servicios de maternidad.  
+
+El sistema se enfoca en este grupo porque permite establecer un puente informativo digital entre la clínica y el hogar del paciente, extendiendo el cuidado médico más allá de las paredes del hospital.  
+
+Para estas instituciones, el proyecto es una herramienta de gestión de riesgos que garantiza que sus pacientes egresados sigan bajo un monitoreo validado y seguro.
+</p>
 
 ## Capítulo II: Requirements Elicitation & Analysis
 
